@@ -1,1 +1,1 @@
-Implementation of blogging site using .
+Implementation of blogging site using Angular.
